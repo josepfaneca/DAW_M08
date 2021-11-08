@@ -23,3 +23,9 @@ consisteix en aprendre la implantació d’arquitectures web, des de servidors d
         </ol>
     </ol>
 </ol>
+<h2>EAC3> UF3. Aplicacions web i serveis</h2>
+<ol type="1">
+  <li>Implantació d'arquitectures web</li>
+  <li>Administració de servidors web</li>
+  <li>Instal·lació i administració de servidors de transferència de fitxers</li>
+</ol>
