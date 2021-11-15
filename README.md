@@ -1,6 +1,6 @@
 # DAW_M08
-DAW_M08B0 Desplegament d'aplicacions web
-Aquest mòdul M08 . Desplegament d'aplicacions web
+<u>DAW_M08B0 Desplegament d'aplicacions web</u>. <br>
+Aquest mòdul <b>M08 . Desplegament d'aplicacions web</b>
 consisteix en aprendre la implantació d’arquitectures web, des de servidors de transferència de fitxers, fins a web i d’aplicacions web amb serveis de xarxa, elaborant documentació i gestionant sistemes de control de versions.
 
 <h2>EAC1> UF1. Servidors web i de transferència de fitxers</h2>
