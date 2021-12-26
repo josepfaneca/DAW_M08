@@ -29,3 +29,8 @@ consisteix en aprendre la implantació d’arquitectures web, des de servidors d
   <li>Administració de servidors web</li>
   <li>Instal·lació i administració de servidors de transferència de fitxers</li>
 </ol>
+<h2>EAC4> UF4. Control de versions i documentació</h2>
+<ol type="1">
+  <li>Documentació d'aplicacions</li>
+  <li>Sistemes de control de versions</li>
+</ol>
